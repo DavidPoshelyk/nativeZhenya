@@ -145,7 +145,7 @@ const CurrencyEContainer: React.FC = () => {
 //     };
 // };
 
-//const connector = connect(mapStateToProps, mapDispatchToProps);
+// //const connector = connect(mapStateToProps, mapDispatchToProps);
 // const connector = connect(mapStateToProps, {
 //     ChangeActionAC,
 //     ChangeCurrencyFieldAC,

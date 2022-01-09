@@ -1,16 +1,6 @@
 import React from 'react';
 import CurrencyExchangeContainer from '../../containers/CurrencyExchangeContainer/CurrencyEContainer'
 
-
-const hey = () => {
-    return (
-        <div>
-
-        </div>
-    );
-};
-
-
 // Redux
 // https://tproger.ru/translations/redux-for-beginners/
 // https://monsterlessons.com/project/series/redux-js-dlya-nachinayushih
